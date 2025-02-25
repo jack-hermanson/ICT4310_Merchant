@@ -1,0 +1,141 @@
+DEBUG    [2025-02-24 20:26:16]: LOGGING IS RUNNING - __init__.py:38 
+INFO     [2025-02-24 20:26:16]: Running app in environment 'dev' - __init__.py:39 
+INFO     [2025-02-24 20:26:16]: FLASK_ENV: 'development' - __init__.py:40 
+DEBUG    [2025-02-24 20:26:18]: LOGGING IS RUNNING - __init__.py:38 
+INFO     [2025-02-24 20:26:18]: Running app in environment 'dev' - __init__.py:39 
+INFO     [2025-02-24 20:26:18]: FLASK_ENV: 'development' - __init__.py:40 
+DEBUG    [2025-02-24 20:33:53]: LOGGING IS RUNNING - __init__.py:38 
+INFO     [2025-02-24 20:33:53]: Running app in environment 'dev' - __init__.py:39 
+INFO     [2025-02-24 20:33:53]: FLASK_ENV: 'development' - __init__.py:40 
+DEBUG    [2025-02-24 20:35:57]: LOGGING IS RUNNING - __init__.py:38 
+INFO     [2025-02-24 20:35:57]: Running app in environment 'dev' - __init__.py:39 
+INFO     [2025-02-24 20:35:57]: FLASK_ENV: 'development' - __init__.py:40 
+DEBUG    [2025-02-24 20:36:31]: LOGGING IS RUNNING - __init__.py:38 
+INFO     [2025-02-24 20:36:31]: Running app in environment 'dev' - __init__.py:39 
+INFO     [2025-02-24 20:36:31]: FLASK_ENV: 'development' - __init__.py:40 
+DEBUG    [2025-02-24 20:39:06]: LOGGING IS RUNNING - __init__.py:38 
+INFO     [2025-02-24 20:39:06]: Running app in environment 'dev' - __init__.py:39 
+INFO     [2025-02-24 20:39:06]: FLASK_ENV: 'development' - __init__.py:40 
+DEBUG    [2025-02-24 20:39:12]: LOGGING IS RUNNING - __init__.py:38 
+INFO     [2025-02-24 20:39:12]: Running app in environment 'dev' - __init__.py:39 
+INFO     [2025-02-24 20:39:12]: FLASK_ENV: 'development' - __init__.py:40 
+DEBUG    [2025-02-24 20:45:52]: LOGGING IS RUNNING - __init__.py:38 
+INFO     [2025-02-24 20:45:52]: Running app in environment 'dev' - __init__.py:39 
+INFO     [2025-02-24 20:45:52]: FLASK_ENV: 'development' - __init__.py:40 
+DEBUG    [2025-02-24 20:49:47]: LOGGING IS RUNNING - __init__.py:38 
+INFO     [2025-02-24 20:49:47]: Running app in environment 'dev' - __init__.py:39 
+INFO     [2025-02-24 20:49:47]: FLASK_ENV: 'development' - __init__.py:40 
+DEBUG    [2025-02-24 20:54:41]: LOGGING IS RUNNING - __init__.py:38 
+INFO     [2025-02-24 20:54:41]: Running app in environment 'dev' - __init__.py:39 
+INFO     [2025-02-24 20:54:41]: FLASK_ENV: 'development' - __init__.py:40 
+DEBUG    [2025-02-24 20:57:02]: LOGGING IS RUNNING - __init__.py:40 
+INFO     [2025-02-24 20:57:02]: Running app in environment 'dev' - __init__.py:41 
+INFO     [2025-02-24 20:57:02]: FLASK_ENV: 'development' - __init__.py:42 
+DEBUG    [2025-02-24 20:57:04]: LOGGING IS RUNNING - __init__.py:40 
+INFO     [2025-02-24 20:57:04]: Running app in environment 'dev' - __init__.py:41 
+INFO     [2025-02-24 20:57:04]: FLASK_ENV: 'development' - __init__.py:42 
+DEBUG    [2025-02-24 20:57:08]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-02-24 20:57:08]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-02-24 20:57:08]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-02-24 20:58:20]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-02-24 20:58:20]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-02-24 20:58:20]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-02-24 20:58:23]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-02-24 20:58:23]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-02-24 20:58:23]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-02-24 20:59:35]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-02-24 20:59:35]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-02-24 20:59:35]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-02-24 20:59:51]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-02-24 20:59:51]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-02-24 20:59:51]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-02-24 20:59:51]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-02-24 20:59:51]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-02-24 20:59:51]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-02-24 21:01:02]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-02-24 21:01:02]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-02-24 21:01:02]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-02-24 21:01:03]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-02-24 21:01:03]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-02-24 21:01:03]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-02-24 21:02:18]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-02-24 21:02:18]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-02-24 21:02:18]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-02-24 21:02:18]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-02-24 21:02:18]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-02-24 21:02:18]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-02-24 21:02:21]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-02-24 21:02:21]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-02-24 21:02:21]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-02-24 21:02:23]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-02-24 21:02:23]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-02-24 21:02:23]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-02-24 21:02:55]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-02-24 21:02:55]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-02-24 21:02:55]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-02-24 21:03:08]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-02-24 21:03:08]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-02-24 21:03:08]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-02-24 21:03:09]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-02-24 21:03:09]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-02-24 21:03:09]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-02-24 21:05:12]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-02-24 21:05:12]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-02-24 21:05:12]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-02-24 21:05:50]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-02-24 21:05:50]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-02-24 21:05:50]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-02-24 21:06:06]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-02-24 21:06:06]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-02-24 21:06:06]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-02-24 21:06:40]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-02-24 21:06:40]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-02-24 21:06:40]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-02-24 21:06:47]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-02-24 21:06:47]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-02-24 21:06:47]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-02-24 21:07:17]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-02-24 21:07:17]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-02-24 21:07:17]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-02-24 21:09:44]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-02-24 21:09:44]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-02-24 21:09:44]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-02-24 21:09:48]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-02-24 21:09:48]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-02-24 21:09:48]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-02-24 21:10:06]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-02-24 21:10:06]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-02-24 21:10:06]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-02-24 21:10:15]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-02-24 21:10:15]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-02-24 21:10:15]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-02-24 21:10:42]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-02-24 21:10:42]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-02-24 21:10:42]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-02-24 21:10:55]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-02-24 21:10:55]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-02-24 21:10:55]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-02-24 21:11:48]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-02-24 21:11:48]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-02-24 21:11:48]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-02-24 21:35:30]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-02-24 21:35:30]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-02-24 21:35:30]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-02-24 21:35:32]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-02-24 21:35:32]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-02-24 21:35:32]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-02-24 21:40:44]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-02-24 21:40:44]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-02-24 21:40:44]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-02-24 21:41:55]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-02-24 21:41:55]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-02-24 21:41:55]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-02-24 21:52:17]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-02-24 21:52:17]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-02-24 21:52:17]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-02-24 21:52:40]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-02-24 21:52:40]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-02-24 21:52:40]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-02-24 21:53:39]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-02-24 21:53:39]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-02-24 21:53:39]: FLASK_ENV: 'development' - __init__.py:43 

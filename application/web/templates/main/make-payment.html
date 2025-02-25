@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% from "macros/form.html" import form_group %}
+
+{% block body %}
+    <div class="row">
+        <div class="col">
+            <h2>Make Payment</h2>
+        </div>
+    </div>
+    <form action="{{ url_for('main.make_payment') }}" method="POST">
+        <div class="row">
+            <div class="col">
+                {{ form_group(form, "card_number") }}
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                {{ form.submit(class="btn btn-success") }}
+            </div>
+        </div>
+    </form>
+{% endblock body %}
