@@ -8,9 +8,15 @@
         </div>
     </div>
     <form action="{{ url_for('main.make_payment') }}" method="POST">
+        {{ form.hidden_tag() }}
         <div class="row">
             <div class="col">
                 {{ form_group(form, "card_number") }}
+                {{ form_group(form, "card_code") }}
+                {{ form_group(form, "exp_month") }}
+                {{ form_group(form, "exp_year") }}
+                {{ form_group(form, "name") }}
+                {{ form_group(form, "amount") }}
             </div>
         </div>
         <div class="row">
@@ -20,3 +26,23 @@
         </div>
     </form>
 {% endblock body %}
+
+{% block scripts %}
+<script>
+    function formatCardNumber(input) {
+        let value = input.value.replace(/\D/g, ""); // Remove all non-digit characters
+        let formattedValue = "";
+
+        // Add hyphens dynamically as user types
+        for (let i = 0; i < value.length; i++) {
+            if (i > 0 && i % 4 === 0) {
+                formattedValue += "-";
+            }
+            formattedValue += value[i];
+        }
+
+        // Trim to max 19 characters (16 digits + 3 hyphens)
+        input.value = formattedValue.slice(0, 19);
+    }
+</script>
+{% endblock scripts %}

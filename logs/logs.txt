@@ -1,141 +1,1542 @@
-DEBUG    [2025-02-24 20:26:16]: LOGGING IS RUNNING - __init__.py:38 
-INFO     [2025-02-24 20:26:16]: Running app in environment 'dev' - __init__.py:39 
-INFO     [2025-02-24 20:26:16]: FLASK_ENV: 'development' - __init__.py:40 
-DEBUG    [2025-02-24 20:26:18]: LOGGING IS RUNNING - __init__.py:38 
-INFO     [2025-02-24 20:26:18]: Running app in environment 'dev' - __init__.py:39 
-INFO     [2025-02-24 20:26:18]: FLASK_ENV: 'development' - __init__.py:40 
-DEBUG    [2025-02-24 20:33:53]: LOGGING IS RUNNING - __init__.py:38 
-INFO     [2025-02-24 20:33:53]: Running app in environment 'dev' - __init__.py:39 
-INFO     [2025-02-24 20:33:53]: FLASK_ENV: 'development' - __init__.py:40 
-DEBUG    [2025-02-24 20:35:57]: LOGGING IS RUNNING - __init__.py:38 
-INFO     [2025-02-24 20:35:57]: Running app in environment 'dev' - __init__.py:39 
-INFO     [2025-02-24 20:35:57]: FLASK_ENV: 'development' - __init__.py:40 
-DEBUG    [2025-02-24 20:36:31]: LOGGING IS RUNNING - __init__.py:38 
-INFO     [2025-02-24 20:36:31]: Running app in environment 'dev' - __init__.py:39 
-INFO     [2025-02-24 20:36:31]: FLASK_ENV: 'development' - __init__.py:40 
-DEBUG    [2025-02-24 20:39:06]: LOGGING IS RUNNING - __init__.py:38 
-INFO     [2025-02-24 20:39:06]: Running app in environment 'dev' - __init__.py:39 
-INFO     [2025-02-24 20:39:06]: FLASK_ENV: 'development' - __init__.py:40 
-DEBUG    [2025-02-24 20:39:12]: LOGGING IS RUNNING - __init__.py:38 
-INFO     [2025-02-24 20:39:12]: Running app in environment 'dev' - __init__.py:39 
-INFO     [2025-02-24 20:39:12]: FLASK_ENV: 'development' - __init__.py:40 
-DEBUG    [2025-02-24 20:45:52]: LOGGING IS RUNNING - __init__.py:38 
-INFO     [2025-02-24 20:45:52]: Running app in environment 'dev' - __init__.py:39 
-INFO     [2025-02-24 20:45:52]: FLASK_ENV: 'development' - __init__.py:40 
-DEBUG    [2025-02-24 20:49:47]: LOGGING IS RUNNING - __init__.py:38 
-INFO     [2025-02-24 20:49:47]: Running app in environment 'dev' - __init__.py:39 
-INFO     [2025-02-24 20:49:47]: FLASK_ENV: 'development' - __init__.py:40 
-DEBUG    [2025-02-24 20:54:41]: LOGGING IS RUNNING - __init__.py:38 
-INFO     [2025-02-24 20:54:41]: Running app in environment 'dev' - __init__.py:39 
-INFO     [2025-02-24 20:54:41]: FLASK_ENV: 'development' - __init__.py:40 
-DEBUG    [2025-02-24 20:57:02]: LOGGING IS RUNNING - __init__.py:40 
-INFO     [2025-02-24 20:57:02]: Running app in environment 'dev' - __init__.py:41 
-INFO     [2025-02-24 20:57:02]: FLASK_ENV: 'development' - __init__.py:42 
-DEBUG    [2025-02-24 20:57:04]: LOGGING IS RUNNING - __init__.py:40 
-INFO     [2025-02-24 20:57:04]: Running app in environment 'dev' - __init__.py:41 
-INFO     [2025-02-24 20:57:04]: FLASK_ENV: 'development' - __init__.py:42 
-DEBUG    [2025-02-24 20:57:08]: LOGGING IS RUNNING - __init__.py:41 
-INFO     [2025-02-24 20:57:08]: Running app in environment 'dev' - __init__.py:42 
-INFO     [2025-02-24 20:57:08]: FLASK_ENV: 'development' - __init__.py:43 
-DEBUG    [2025-02-24 20:58:20]: LOGGING IS RUNNING - __init__.py:41 
-INFO     [2025-02-24 20:58:20]: Running app in environment 'dev' - __init__.py:42 
-INFO     [2025-02-24 20:58:20]: FLASK_ENV: 'development' - __init__.py:43 
-DEBUG    [2025-02-24 20:58:23]: LOGGING IS RUNNING - __init__.py:41 
-INFO     [2025-02-24 20:58:23]: Running app in environment 'dev' - __init__.py:42 
-INFO     [2025-02-24 20:58:23]: FLASK_ENV: 'development' - __init__.py:43 
-DEBUG    [2025-02-24 20:59:35]: LOGGING IS RUNNING - __init__.py:41 
-INFO     [2025-02-24 20:59:35]: Running app in environment 'dev' - __init__.py:42 
-INFO     [2025-02-24 20:59:35]: FLASK_ENV: 'development' - __init__.py:43 
-DEBUG    [2025-02-24 20:59:51]: LOGGING IS RUNNING - __init__.py:41 
-INFO     [2025-02-24 20:59:51]: Running app in environment 'dev' - __init__.py:42 
-INFO     [2025-02-24 20:59:51]: FLASK_ENV: 'development' - __init__.py:43 
-DEBUG    [2025-02-24 20:59:51]: LOGGING IS RUNNING - __init__.py:41 
-INFO     [2025-02-24 20:59:51]: Running app in environment 'dev' - __init__.py:42 
-INFO     [2025-02-24 20:59:51]: FLASK_ENV: 'development' - __init__.py:43 
-DEBUG    [2025-02-24 21:01:02]: LOGGING IS RUNNING - __init__.py:41 
-INFO     [2025-02-24 21:01:02]: Running app in environment 'dev' - __init__.py:42 
-INFO     [2025-02-24 21:01:02]: FLASK_ENV: 'development' - __init__.py:43 
-DEBUG    [2025-02-24 21:01:03]: LOGGING IS RUNNING - __init__.py:41 
-INFO     [2025-02-24 21:01:03]: Running app in environment 'dev' - __init__.py:42 
-INFO     [2025-02-24 21:01:03]: FLASK_ENV: 'development' - __init__.py:43 
-DEBUG    [2025-02-24 21:02:18]: LOGGING IS RUNNING - __init__.py:41 
-INFO     [2025-02-24 21:02:18]: Running app in environment 'dev' - __init__.py:42 
-INFO     [2025-02-24 21:02:18]: FLASK_ENV: 'development' - __init__.py:43 
-DEBUG    [2025-02-24 21:02:18]: LOGGING IS RUNNING - __init__.py:41 
-INFO     [2025-02-24 21:02:18]: Running app in environment 'dev' - __init__.py:42 
-INFO     [2025-02-24 21:02:18]: FLASK_ENV: 'development' - __init__.py:43 
-DEBUG    [2025-02-24 21:02:21]: LOGGING IS RUNNING - __init__.py:41 
-INFO     [2025-02-24 21:02:21]: Running app in environment 'dev' - __init__.py:42 
-INFO     [2025-02-24 21:02:21]: FLASK_ENV: 'development' - __init__.py:43 
-DEBUG    [2025-02-24 21:02:23]: LOGGING IS RUNNING - __init__.py:41 
-INFO     [2025-02-24 21:02:23]: Running app in environment 'dev' - __init__.py:42 
-INFO     [2025-02-24 21:02:23]: FLASK_ENV: 'development' - __init__.py:43 
-DEBUG    [2025-02-24 21:02:55]: LOGGING IS RUNNING - __init__.py:41 
-INFO     [2025-02-24 21:02:55]: Running app in environment 'dev' - __init__.py:42 
-INFO     [2025-02-24 21:02:55]: FLASK_ENV: 'development' - __init__.py:43 
-DEBUG    [2025-02-24 21:03:08]: LOGGING IS RUNNING - __init__.py:41 
-INFO     [2025-02-24 21:03:08]: Running app in environment 'dev' - __init__.py:42 
-INFO     [2025-02-24 21:03:08]: FLASK_ENV: 'development' - __init__.py:43 
-DEBUG    [2025-02-24 21:03:09]: LOGGING IS RUNNING - __init__.py:41 
-INFO     [2025-02-24 21:03:09]: Running app in environment 'dev' - __init__.py:42 
-INFO     [2025-02-24 21:03:09]: FLASK_ENV: 'development' - __init__.py:43 
-DEBUG    [2025-02-24 21:05:12]: LOGGING IS RUNNING - __init__.py:41 
-INFO     [2025-02-24 21:05:12]: Running app in environment 'dev' - __init__.py:42 
-INFO     [2025-02-24 21:05:12]: FLASK_ENV: 'development' - __init__.py:43 
-DEBUG    [2025-02-24 21:05:50]: LOGGING IS RUNNING - __init__.py:41 
-INFO     [2025-02-24 21:05:50]: Running app in environment 'dev' - __init__.py:42 
-INFO     [2025-02-24 21:05:50]: FLASK_ENV: 'development' - __init__.py:43 
-DEBUG    [2025-02-24 21:06:06]: LOGGING IS RUNNING - __init__.py:41 
-INFO     [2025-02-24 21:06:06]: Running app in environment 'dev' - __init__.py:42 
-INFO     [2025-02-24 21:06:06]: FLASK_ENV: 'development' - __init__.py:43 
-DEBUG    [2025-02-24 21:06:40]: LOGGING IS RUNNING - __init__.py:41 
-INFO     [2025-02-24 21:06:40]: Running app in environment 'dev' - __init__.py:42 
-INFO     [2025-02-24 21:06:40]: FLASK_ENV: 'development' - __init__.py:43 
-DEBUG    [2025-02-24 21:06:47]: LOGGING IS RUNNING - __init__.py:41 
-INFO     [2025-02-24 21:06:47]: Running app in environment 'dev' - __init__.py:42 
-INFO     [2025-02-24 21:06:47]: FLASK_ENV: 'development' - __init__.py:43 
-DEBUG    [2025-02-24 21:07:17]: LOGGING IS RUNNING - __init__.py:41 
-INFO     [2025-02-24 21:07:17]: Running app in environment 'dev' - __init__.py:42 
-INFO     [2025-02-24 21:07:17]: FLASK_ENV: 'development' - __init__.py:43 
-DEBUG    [2025-02-24 21:09:44]: LOGGING IS RUNNING - __init__.py:41 
-INFO     [2025-02-24 21:09:44]: Running app in environment 'dev' - __init__.py:42 
-INFO     [2025-02-24 21:09:44]: FLASK_ENV: 'development' - __init__.py:43 
-DEBUG    [2025-02-24 21:09:48]: LOGGING IS RUNNING - __init__.py:41 
-INFO     [2025-02-24 21:09:48]: Running app in environment 'dev' - __init__.py:42 
-INFO     [2025-02-24 21:09:48]: FLASK_ENV: 'development' - __init__.py:43 
-DEBUG    [2025-02-24 21:10:06]: LOGGING IS RUNNING - __init__.py:41 
-INFO     [2025-02-24 21:10:06]: Running app in environment 'dev' - __init__.py:42 
-INFO     [2025-02-24 21:10:06]: FLASK_ENV: 'development' - __init__.py:43 
-DEBUG    [2025-02-24 21:10:15]: LOGGING IS RUNNING - __init__.py:41 
-INFO     [2025-02-24 21:10:15]: Running app in environment 'dev' - __init__.py:42 
-INFO     [2025-02-24 21:10:15]: FLASK_ENV: 'development' - __init__.py:43 
-DEBUG    [2025-02-24 21:10:42]: LOGGING IS RUNNING - __init__.py:41 
-INFO     [2025-02-24 21:10:42]: Running app in environment 'dev' - __init__.py:42 
-INFO     [2025-02-24 21:10:42]: FLASK_ENV: 'development' - __init__.py:43 
-DEBUG    [2025-02-24 21:10:55]: LOGGING IS RUNNING - __init__.py:41 
-INFO     [2025-02-24 21:10:55]: Running app in environment 'dev' - __init__.py:42 
-INFO     [2025-02-24 21:10:55]: FLASK_ENV: 'development' - __init__.py:43 
-DEBUG    [2025-02-24 21:11:48]: LOGGING IS RUNNING - __init__.py:41 
-INFO     [2025-02-24 21:11:48]: Running app in environment 'dev' - __init__.py:42 
-INFO     [2025-02-24 21:11:48]: FLASK_ENV: 'development' - __init__.py:43 
-DEBUG    [2025-02-24 21:35:30]: LOGGING IS RUNNING - __init__.py:41 
-INFO     [2025-02-24 21:35:30]: Running app in environment 'dev' - __init__.py:42 
-INFO     [2025-02-24 21:35:30]: FLASK_ENV: 'development' - __init__.py:43 
-DEBUG    [2025-02-24 21:35:32]: LOGGING IS RUNNING - __init__.py:41 
-INFO     [2025-02-24 21:35:32]: Running app in environment 'dev' - __init__.py:42 
-INFO     [2025-02-24 21:35:32]: FLASK_ENV: 'development' - __init__.py:43 
-DEBUG    [2025-02-24 21:40:44]: LOGGING IS RUNNING - __init__.py:41 
-INFO     [2025-02-24 21:40:44]: Running app in environment 'dev' - __init__.py:42 
-INFO     [2025-02-24 21:40:44]: FLASK_ENV: 'development' - __init__.py:43 
-DEBUG    [2025-02-24 21:41:55]: LOGGING IS RUNNING - __init__.py:41 
-INFO     [2025-02-24 21:41:55]: Running app in environment 'dev' - __init__.py:42 
-INFO     [2025-02-24 21:41:55]: FLASK_ENV: 'development' - __init__.py:43 
-DEBUG    [2025-02-24 21:52:17]: LOGGING IS RUNNING - __init__.py:41 
-INFO     [2025-02-24 21:52:17]: Running app in environment 'dev' - __init__.py:42 
-INFO     [2025-02-24 21:52:17]: FLASK_ENV: 'development' - __init__.py:43 
-DEBUG    [2025-02-24 21:52:40]: LOGGING IS RUNNING - __init__.py:41 
-INFO     [2025-02-24 21:52:40]: Running app in environment 'dev' - __init__.py:42 
-INFO     [2025-02-24 21:52:40]: FLASK_ENV: 'development' - __init__.py:43 
-DEBUG    [2025-02-24 21:53:39]: LOGGING IS RUNNING - __init__.py:41 
-INFO     [2025-02-24 21:53:39]: Running app in environment 'dev' - __init__.py:42 
-INFO     [2025-02-24 21:53:39]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 18:46:36]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 18:46:36]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 18:46:36]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 18:46:41]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 18:46:41]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 18:46:41]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 18:46:42]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 18:46:42]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 18:46:42]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 18:47:19]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 18:47:19]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 18:47:19]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 18:47:20]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 18:47:20]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 18:47:20]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 18:48:54]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 18:48:54]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 18:48:54]: FLASK_ENV: 'development' - __init__.py:43 
+INFO     [2025-03-01 18:48:55]: Making request to processor 3333333333333333 - request_authorization.py:11 
+DEBUG    [2025-03-01 18:49:05]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 18:49:05]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 18:49:05]: FLASK_ENV: 'development' - __init__.py:43 
+INFO     [2025-03-01 18:49:07]: Making request to processor {'card_number': '3333333333333333'} - request_authorization.py:11 
+DEBUG    [2025-03-01 18:49:50]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 18:49:50]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 18:49:50]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 18:49:52]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 18:49:52]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 18:49:52]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 18:49:53]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 18:49:53]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 18:49:53]: FLASK_ENV: 'development' - __init__.py:43 
+INFO     [2025-03-01 18:49:53]: Making request to processor:
+{
+  "card_number": "3333333333333333"
+} - request_authorization.py:11 
+DEBUG    [2025-03-01 18:51:10]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 18:51:10]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 18:51:10]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 18:52:01]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 18:52:01]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 18:52:01]: FLASK_ENV: 'development' - __init__.py:43 
+INFO     [2025-03-01 18:52:04]: Making request to processor:
+{
+  "card_number": "3333333333333333"
+} - request_authorization.py:11 
+ERROR    [2025-03-01 18:52:22]: Response from processor: 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application. - request_authorization.py:20 
+DEBUG    [2025-03-01 18:52:41]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 18:52:41]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 18:52:41]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 18:52:49]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 18:52:49]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 18:52:49]: FLASK_ENV: 'development' - __init__.py:43 
+INFO     [2025-03-01 18:52:49]: Making request to processor:
+{
+  "card_number": "3333333333333333"
+} - request_authorization.py:11 
+ERROR    [2025-03-01 18:52:53]: Response from processor: 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application. - request_authorization.py:20 
+INFO     [2025-03-01 18:53:40]: Making request to processor:
+{
+  "card_number": "3333333333333333"
+} - request_authorization.py:11 
+ERROR    [2025-03-01 18:53:43]: Response from processor: 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application. - request_authorization.py:20 
+INFO     [2025-03-01 18:53:46]: Making request to processor:
+{
+  "card_number": "3333333333333333"
+} - request_authorization.py:11 
+ERROR    [2025-03-01 18:53:46]: Response from processor: 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application. - request_authorization.py:20 
+INFO     [2025-03-01 18:53:48]: Making request to processor:
+{
+  "card_number": "3333333333333333"
+} - request_authorization.py:11 
+ERROR    [2025-03-01 18:53:48]: Response from processor: 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application. - request_authorization.py:20 
+DEBUG    [2025-03-01 18:54:07]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 18:54:07]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 18:54:07]: FLASK_ENV: 'development' - __init__.py:43 
+INFO     [2025-03-01 18:54:08]: Making request to processor:
+{
+  "card_number": "3333333333333333"
+} - request_authorization.py:11 
+ERROR    [2025-03-01 18:54:08]: Response from processor: 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application. - request_authorization.py:20 
+DEBUG    [2025-03-01 18:57:23]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 18:57:23]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 18:57:23]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 19:01:42]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 19:01:42]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 19:01:42]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 19:05:39]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 19:05:39]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 19:05:39]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 19:06:19]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 19:06:19]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 19:06:19]: FLASK_ENV: 'development' - __init__.py:43 
+INFO     [2025-03-01 19:09:20]: Making request to processor:
+{
+  "card_number": "3333333333333333"
+} - request_authorization.py:11 
+ERROR    [2025-03-01 19:09:21]: Response from processor: 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application. - request_authorization.py:20 
+INFO     [2025-03-01 19:10:32]: Making request to processor:
+{
+  "card_number": "3333333333333333"
+} - request_authorization.py:11 
+ERROR    [2025-03-01 19:10:32]: Response from processor: 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application. - request_authorization.py:20 
+DEBUG    [2025-03-01 19:12:26]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 19:12:26]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 19:12:26]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 19:12:26]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 19:12:26]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 19:12:26]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 19:14:10]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 19:14:10]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 19:14:10]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 19:14:44]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 19:14:44]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 19:14:44]: FLASK_ENV: 'development' - __init__.py:43 
+INFO     [2025-03-01 19:15:26]: Making request to processor:
+{
+  "card_number": "3333333333333333"
+} - request_authorization.py:11 
+ERROR    [2025-03-01 19:15:26]: Response from processor: 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application. - request_authorization.py:20 
+DEBUG    [2025-03-01 19:17:00]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 19:17:00]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 19:17:00]: FLASK_ENV: 'development' - __init__.py:43 
+INFO     [2025-03-01 19:17:05]: Making request to processor:
+{
+  "card_number": "3333-3333-3333-3333"
+} - request_authorization.py:11 
+ERROR    [2025-03-01 19:17:06]: Response from processor: 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application. - request_authorization.py:20 
+DEBUG    [2025-03-01 19:17:43]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 19:17:43]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 19:17:43]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 19:19:22]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 19:19:22]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 19:19:22]: FLASK_ENV: 'development' - __init__.py:43 
+INFO     [2025-03-01 19:19:32]: Making request to processor:
+{
+  "card_number": "3449494949494949"
+} - request_authorization.py:11 
+ERROR    [2025-03-01 19:19:32]: Response from processor: 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application. - request_authorization.py:20 
+DEBUG    [2025-03-01 21:44:52]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 21:44:52]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 21:44:52]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 21:51:30]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 21:51:30]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 21:51:30]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 21:52:07]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 21:52:07]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 21:52:07]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 21:59:06]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 21:59:06]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 21:59:06]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 21:59:14]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 21:59:14]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 21:59:14]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 22:00:02]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 22:00:02]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 22:00:02]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 22:00:05]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 22:00:05]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 22:00:05]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 22:00:44]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 22:00:44]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 22:00:44]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 22:02:12]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 22:02:12]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 22:02:12]: FLASK_ENV: 'development' - __init__.py:43 
+INFO     [2025-03-01 22:02:21]: Making request to processor:
+{
+  "id": "7ddbdc4d-ec82-4098-a838-e7d5993f75cd",
+  "amount": 20,
+  "card": {
+    "id": "53682d90-2d82-4461-a88b-1b274bc63d62",
+    "name": "Test",
+    "card_code": "123",
+    "exp_month": "12",
+    "exp_year": "2029"
+  },
+  "merchant_data": {
+    "name": "Merchant",
+    "network_id": "merch_e3_ef_a6"
+  }
+} - request_authorization.py:13 
+DEBUG    [2025-03-01 22:06:34]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 22:06:34]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 22:06:34]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 22:06:47]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 22:06:47]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 22:06:47]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 22:08:20]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 22:08:20]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 22:08:20]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 22:19:19]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 22:19:19]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 22:19:19]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 22:20:38]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 22:20:38]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 22:20:38]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 22:22:51]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 22:22:51]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 22:22:51]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 22:24:19]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 22:24:19]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 22:24:19]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 22:27:28]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 22:27:28]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 22:27:28]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 22:27:31]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 22:27:31]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 22:27:31]: FLASK_ENV: 'development' - __init__.py:43 
+INFO     [2025-03-01 22:27:42]: Making request to processor:
+{
+  "id": "632c70ea-1c17-47ff-b5d9-450b330f83b8",
+  "amount": 20,
+  "card": {
+    "id": "e8d3184d-adcc-4f90-8d32-3c215a59e4c5",
+    "name": "Test",
+    "card_code": "123",
+    "exp_month": "12",
+    "exp_year": "2029"
+  },
+  "merchant_data": {
+    "name": "Merchant",
+    "network_id": "merch_e3_ef_a6"
+  }
+} - request_authorization.py:14 
+INFO     [2025-03-01 22:28:50]: Making request to processor:
+{
+  "id": "4ee61152-6527-4d36-a711-9eba0c299938",
+  "amount": 20,
+  "card": {
+    "id": "1523c912-ac2c-4c5c-a85e-055304ca41ed",
+    "name": "Test",
+    "card_code": "123",
+    "exp_month": "12",
+    "exp_year": "2029"
+  },
+  "merchant_data": {
+    "name": "Merchant",
+    "network_id": "merch_e3_ef_a6"
+  }
+} - request_authorization.py:14 
+DEBUG    [2025-03-01 22:31:43]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 22:31:43]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 22:31:43]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 22:31:57]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 22:31:57]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 22:31:57]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 22:31:58]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 22:31:58]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 22:31:58]: FLASK_ENV: 'development' - __init__.py:43 
+INFO     [2025-03-01 22:32:03]: Making request to processor:
+{
+  "id": "d2850bbf-78f5-444a-8924-9ca9aeac6074",
+  "amount": 20,
+  "card": {
+    "id": "6ae4909a-3793-44b7-8834-da6749f147e9",
+    "name": "Test",
+    "card_code": "123",
+    "exp_month": "12",
+    "exp_year": "2029"
+  },
+  "merchant_data": {
+    "name": "Merchant",
+    "network_id": "merch_e3_ef_a6"
+  }
+} - request_authorization.py:14 
+DEBUG    [2025-03-01 22:35:41]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 22:35:41]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 22:35:41]: FLASK_ENV: 'development' - __init__.py:43 
+INFO     [2025-03-01 22:35:41]: Making request to processor:
+{
+  "id": "d973d28e-4e07-4b80-af3a-58f9ba173fcb",
+  "amount": 20,
+  "card": {
+    "id": "9b6e0464-3b5a-4747-a24a-a07c2c435db6",
+    "name": "Test",
+    "card_code": "123",
+    "exp_month": "12",
+    "exp_year": "2029"
+  },
+  "merchant_data": {
+    "name": "Merchant",
+    "network_id": "merch_e3_ef_a6"
+  }
+} - request_authorization.py:14 
+DEBUG    [2025-03-01 22:38:00]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 22:38:00]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 22:38:00]: FLASK_ENV: 'development' - __init__.py:43 
+INFO     [2025-03-01 22:38:20]: Making request to processor:
+{
+  "id": "c4fac8a6-6ac6-4b2b-9ae6-4326ff9e849a",
+  "amount": 20,
+  "card": {
+    "id": "1b37cb9d-7463-4415-a0e3-1baa2eea3880",
+    "name": "Test",
+    "card_code": "123",
+    "exp_month": "12",
+    "exp_year": "2029"
+  },
+  "merchant_data": {
+    "name": "Merchant",
+    "network_id": "merch_e3_ef_a6"
+  }
+} - request_authorization.py:14 
+DEBUG    [2025-03-01 22:39:23]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 22:39:23]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 22:39:23]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 22:39:34]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 22:39:34]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 22:39:34]: FLASK_ENV: 'development' - __init__.py:43 
+INFO     [2025-03-01 22:39:36]: Making request to processor:
+{
+  "id": "b6146016-6bb8-49c7-b314-99c1d9856c14",
+  "amount": 20,
+  "card": {
+    "id": "b9222ec6-6d89-4a66-82a2-113185d843fb",
+    "name": "Test",
+    "card_code": "123",
+    "exp_month": "12",
+    "exp_year": "2029"
+  },
+  "merchant_data": {
+    "name": "Merchant",
+    "network_id": "merch_e3_ef_a6"
+  }
+} - request_authorization.py:14 
+DEBUG    [2025-03-01 22:41:28]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 22:41:28]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 22:41:28]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 22:42:31]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 22:42:31]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 22:42:31]: FLASK_ENV: 'development' - __init__.py:43 
+INFO     [2025-03-01 22:42:33]: Making request to processor:
+{
+  "id": "190b117a-822b-43c6-87cd-31e6e80bce7d",
+  "amount": 20,
+  "card": {
+    "id": "ac8b7cb3-aa61-43f7-b5a9-bc7c8ea77133",
+    "name": "Test",
+    "card_code": "123",
+    "exp_month": "12",
+    "exp_year": "2029"
+  },
+  "merchant_data": {
+    "name": "Merchant",
+    "network_id": "merch_e3_ef_a6"
+  }
+} - request_authorization.py:14 
+DEBUG    [2025-03-01 22:43:19]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 22:43:19]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 22:43:19]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 22:43:24]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 22:43:24]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 22:43:24]: FLASK_ENV: 'development' - __init__.py:43 
+INFO     [2025-03-01 22:43:50]: Making request to processor:
+{
+  "id": "dbd5fc2f-4b8d-4cff-8e33-5e4a22f10bf5",
+  "amount": 20,
+  "card": {
+    "id": "4140-1233-8445-4561",
+    "name": "Test",
+    "card_code": "123",
+    "exp_month": "12",
+    "exp_year": "2029"
+  },
+  "merchant_data": {
+    "name": "Merchant",
+    "network_id": "merch_e3_ef_a6"
+  }
+} - request_authorization.py:14 
+DEBUG    [2025-03-01 22:45:05]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 22:45:05]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 22:45:05]: FLASK_ENV: 'development' - __init__.py:43 
+INFO     [2025-03-01 22:45:06]: Making request to processor:
+{
+  "id": "auth_bc3b6b6b-b9f0-4516-9285-1983367d43b4",
+  "amount": 20,
+  "card": {
+    "id": "4140-1233-8445-4561",
+    "name": "ICT4310 Instructor",
+    "card_code": "123",
+    "exp_month": "06",
+    "exp_year": "2023"
+  },
+  "merchant_data": {
+    "name": "Merchant",
+    "network_id": "merch_e3_ef_a6"
+  }
+} - request_authorization.py:14 
+DEBUG    [2025-03-01 22:45:08]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 22:45:08]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 22:45:08]: FLASK_ENV: 'development' - __init__.py:43 
+INFO     [2025-03-01 22:45:43]: Making request to processor:
+{
+  "id": "auth_d95e6787-5005-4981-b95f-5662d71942ee",
+  "amount": 20,
+  "card": {
+    "id": "4111-1111-1111-1111",
+    "name": "ICT4310 Instructor",
+    "card_code": "123",
+    "exp_month": "06",
+    "exp_year": "2023"
+  },
+  "merchant_data": {
+    "name": "Merchant",
+    "network_id": "merch_e3_ef_a6"
+  }
+} - request_authorization.py:14 
+DEBUG    [2025-03-01 22:48:14]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 22:48:14]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 22:48:14]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 22:48:46]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 22:48:46]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 22:48:46]: FLASK_ENV: 'development' - __init__.py:43 
+INFO     [2025-03-01 22:48:47]: Making request to processor:
+{
+  "id": "auth_0649cb37-8d98-4611-987c-0cce9adbe202",
+  "amount": 20,
+  "currency": "usd",
+  "card": {
+    "id": "4111-1111-1111-1111",
+    "name": "ICT4310 Instructor",
+    "card_code": "123",
+    "exp_month": "06",
+    "exp_year": "2023",
+    "currency": "usd"
+  },
+  "merchant_data": {
+    "name": "Merchant",
+    "network_id": "merch_e3_ef_a6"
+  }
+} - request_authorization.py:14 
+DEBUG    [2025-03-01 22:49:41]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 22:49:41]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 22:49:41]: FLASK_ENV: 'development' - __init__.py:43 
+INFO     [2025-03-01 22:49:41]: Making request to processor:
+{
+  "id": "auth_31dedcdf-6d1f-48e0-9dbe-704a797f298a",
+  "amount": 20,
+  "currency": "usd",
+  "card": {
+    "id": "4111-1111-1111-1111",
+    "name": "ICT4310 Instructor",
+    "card_code": "123",
+    "exp_month": "06",
+    "exp_year": "2025",
+    "currency": "usd"
+  },
+  "merchant_data": {
+    "name": "Merchant",
+    "network_id": "merch_e3_ef_a6"
+  }
+} - request_authorization.py:14 
+DEBUG    [2025-03-01 22:52:07]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 22:52:07]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 22:52:07]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 22:57:09]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 22:57:09]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 22:57:09]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 23:00:38]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 23:00:38]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 23:00:38]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 23:00:39]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 23:00:39]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 23:00:39]: FLASK_ENV: 'development' - __init__.py:43 
+INFO     [2025-03-01 23:00:47]: Making request to processor:
+{
+  "id": "auth_0d688fef-27fc-4fe1-a29c-a5ad48f6eaab",
+  "amount": 20,
+  "currency": "usd",
+  "card": {
+    "id": "4111-1111-1111-1111",
+    "name": "ICT4310 Instructor",
+    "card_code": "123",
+    "exp_month": "06",
+    "exp_year": "2025",
+    "currency": "usd"
+  },
+  "merchant_data": {
+    "name": "Merchant",
+    "network_id": "merch_e3_ef_a6"
+  }
+} - request_authorization.py:14 
+INFO     [2025-03-01 23:00:47]: Processor response:
+{
+  "body": {
+    "amount": 20,
+    "approval_code": "appr_8542b50d-e79c-429c-9803-6091fa75a05b",
+    "approved": true,
+    "card": {
+      "card_code": "123",
+      "currency": "usd",
+      "exp_month": "06",
+      "exp_year": "2025",
+      "id": "4111-1111-1111-1111",
+      "name": "ICT4310 Instructor",
+      "type": "visa",
+      "valid": true
+    },
+    "currency": "usd",
+    "failure_code": "",
+    "failure_message": "",
+    "id": "auth_0d688fef-27fc-4fe1-a29c-a5ad48f6eaab",
+    "merchant_data": {
+      "name": "Merchant",
+      "network_id": "merch_e3_ef_a6"
+    }
+  },
+  "statusCode": 200
+} - request_authorization.py:22 
+DEBUG    [2025-03-01 23:01:02]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 23:01:02]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 23:01:02]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 23:01:19]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 23:01:19]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 23:01:19]: FLASK_ENV: 'development' - __init__.py:43 
+INFO     [2025-03-01 23:01:20]: Making request to processor:
+{
+  "id": "auth_3c18265d-3ea5-4cd8-bb83-fa9fb6e6e7a8",
+  "amount": 20,
+  "currency": "usd",
+  "card": {
+    "id": "4111-1111-1111-1111",
+    "name": "ICT4310 Instructor",
+    "card_code": "123",
+    "exp_month": "06",
+    "exp_year": "2025",
+    "currency": "usd"
+  },
+  "merchant_data": {
+    "name": "Merchant",
+    "network_id": "merch_e3_ef_a6"
+  }
+} - request_authorization.py:14 
+INFO     [2025-03-01 23:01:21]: Processor response:
+{
+  "body": {
+    "amount": 20,
+    "approval_code": "appr_6ca6e9af-f625-419d-92e3-25c384996bdb",
+    "approved": true,
+    "card": {
+      "card_code": "123",
+      "currency": "usd",
+      "exp_month": "06",
+      "exp_year": "2025",
+      "id": "4111-1111-1111-1111",
+      "name": "ICT4310 Instructor",
+      "type": "visa",
+      "valid": true
+    },
+    "currency": "usd",
+    "failure_code": "",
+    "failure_message": "",
+    "id": "auth_3c18265d-3ea5-4cd8-bb83-fa9fb6e6e7a8",
+    "merchant_data": {
+      "name": "Merchant",
+      "network_id": "merch_e3_ef_a6"
+    }
+  },
+  "statusCode": 200
+} - request_authorization.py:22 
+INFO     [2025-03-01 23:01:50]: Making request to processor:
+{
+  "id": "auth_1a8b54d1-30c2-458b-80d0-1cd847ed2c85",
+  "amount": 20,
+  "currency": "usd",
+  "card": {
+    "id": "4111-1111-1111-1111",
+    "name": "ICT4310 Instructor",
+    "card_code": "123",
+    "exp_month": "06",
+    "exp_year": "2025",
+    "currency": "usd"
+  },
+  "merchant_data": {
+    "name": "Merchant",
+    "network_id": "merch_e3_ef_a6"
+  }
+} - request_authorization.py:14 
+INFO     [2025-03-01 23:01:50]: Processor response:
+{
+  "body": {
+    "amount": 20,
+    "approval_code": "appr_c2f3c560-6b3c-4130-bfde-54ccde0aa484",
+    "approved": true,
+    "card": {
+      "card_code": "123",
+      "currency": "usd",
+      "exp_month": "06",
+      "exp_year": "2025",
+      "id": "4111-1111-1111-1111",
+      "name": "ICT4310 Instructor",
+      "type": "visa",
+      "valid": true
+    },
+    "currency": "usd",
+    "failure_code": "",
+    "failure_message": "",
+    "id": "auth_1a8b54d1-30c2-458b-80d0-1cd847ed2c85",
+    "merchant_data": {
+      "name": "Merchant",
+      "network_id": "merch_e3_ef_a6"
+    }
+  },
+  "statusCode": 200
+} - request_authorization.py:22 
+INFO     [2025-03-01 23:01:56]: Making request to processor:
+{
+  "id": "auth_85a240ab-80d4-435e-8324-5d5a72e0b8ae",
+  "amount": 20,
+  "currency": "usd",
+  "card": {
+    "id": "4111-1111-1111-1111",
+    "name": "ICT4310 Instructor",
+    "card_code": "123",
+    "exp_month": "06",
+    "exp_year": "2025",
+    "currency": "usd"
+  },
+  "merchant_data": {
+    "name": "Merchant",
+    "network_id": "merch_e3_ef_a6"
+  }
+} - request_authorization.py:14 
+INFO     [2025-03-01 23:01:57]: Processor response:
+{
+  "body": {
+    "amount": 20,
+    "approval_code": "appr_615a28e6-1761-4d9a-8c1b-fda0b61f3377",
+    "approved": true,
+    "card": {
+      "card_code": "123",
+      "currency": "usd",
+      "exp_month": "06",
+      "exp_year": "2025",
+      "id": "4111-1111-1111-1111",
+      "name": "ICT4310 Instructor",
+      "type": "visa",
+      "valid": true
+    },
+    "currency": "usd",
+    "failure_code": "",
+    "failure_message": "",
+    "id": "auth_85a240ab-80d4-435e-8324-5d5a72e0b8ae",
+    "merchant_data": {
+      "name": "Merchant",
+      "network_id": "merch_e3_ef_a6"
+    }
+  },
+  "statusCode": 200
+} - request_authorization.py:22 
+INFO     [2025-03-01 23:03:40]: Making request to processor:
+{
+  "id": "auth_582dc927-fb0f-4c5b-996a-6fa7558d3300",
+  "amount": 20,
+  "currency": "usd",
+  "card": {
+    "id": "4111-1111-1111-1111",
+    "name": "ICT4310 Instructor",
+    "card_code": "123",
+    "exp_month": "06",
+    "exp_year": "2025",
+    "currency": "usd"
+  },
+  "merchant_data": {
+    "name": "Merchant",
+    "network_id": "merch_e3_ef_a6"
+  }
+} - request_authorization.py:14 
+INFO     [2025-03-01 23:03:40]: Processor response:
+{
+  "body": {
+    "amount": 20,
+    "approval_code": "appr_bddfcaa1-745a-4e2d-adb2-7f43c1a15ba7",
+    "approved": true,
+    "card": {
+      "card_code": "123",
+      "currency": "usd",
+      "exp_month": "06",
+      "exp_year": "2025",
+      "id": "4111-1111-1111-1111",
+      "name": "ICT4310 Instructor",
+      "type": "visa",
+      "valid": true
+    },
+    "currency": "usd",
+    "failure_code": "",
+    "failure_message": "",
+    "id": "auth_582dc927-fb0f-4c5b-996a-6fa7558d3300",
+    "merchant_data": {
+      "name": "Merchant",
+      "network_id": "merch_e3_ef_a6"
+    }
+  },
+  "statusCode": 200
+} - request_authorization.py:22 
+INFO     [2025-03-01 23:03:45]: Making request to processor:
+{
+  "id": "auth_e0c98574-4f06-4d38-8ead-036c653cd9a0",
+  "amount": 20,
+  "currency": "usd",
+  "card": {
+    "id": "4111-1111-1111-1111",
+    "name": "ICT4310 Instructor",
+    "card_code": "123",
+    "exp_month": "06",
+    "exp_year": "2025",
+    "currency": "usd"
+  },
+  "merchant_data": {
+    "name": "Merchant",
+    "network_id": "merch_e3_ef_a6"
+  }
+} - request_authorization.py:14 
+INFO     [2025-03-01 23:03:45]: Processor response:
+{
+  "body": {
+    "amount": 20,
+    "approval_code": "appr_cc38df03-08ca-4505-add1-e9bd5077073c",
+    "approved": true,
+    "card": {
+      "card_code": "123",
+      "currency": "usd",
+      "exp_month": "06",
+      "exp_year": "2025",
+      "id": "4111-1111-1111-1111",
+      "name": "ICT4310 Instructor",
+      "type": "visa",
+      "valid": true
+    },
+    "currency": "usd",
+    "failure_code": "",
+    "failure_message": "",
+    "id": "auth_e0c98574-4f06-4d38-8ead-036c653cd9a0",
+    "merchant_data": {
+      "name": "Merchant",
+      "network_id": "merch_e3_ef_a6"
+    }
+  },
+  "statusCode": 200
+} - request_authorization.py:22 
+INFO     [2025-03-01 23:04:14]: Making request to processor:
+{
+  "id": "auth_72221e79-36bf-4939-87b9-47890042666b",
+  "amount": 20,
+  "currency": "usd",
+  "card": {
+    "id": "4111-1111-1111-1111",
+    "name": "ICT4310 Instructor",
+    "card_code": "123",
+    "exp_month": "06",
+    "exp_year": "2025",
+    "currency": "usd"
+  },
+  "merchant_data": {
+    "name": "Merchant",
+    "network_id": "merch_e3_ef_a6"
+  }
+} - request_authorization.py:14 
+INFO     [2025-03-01 23:04:14]: Processor response:
+{
+  "body": {
+    "amount": 20,
+    "approval_code": "appr_c356242b-d19b-4ee7-9725-a5e5bef63d79",
+    "approved": true,
+    "card": {
+      "card_code": "123",
+      "currency": "usd",
+      "exp_month": "06",
+      "exp_year": "2025",
+      "id": "4111-1111-1111-1111",
+      "name": "ICT4310 Instructor",
+      "type": "visa",
+      "valid": true
+    },
+    "currency": "usd",
+    "failure_code": "",
+    "failure_message": "",
+    "id": "auth_72221e79-36bf-4939-87b9-47890042666b",
+    "merchant_data": {
+      "name": "Merchant",
+      "network_id": "merch_e3_ef_a6"
+    }
+  },
+  "statusCode": 200
+} - request_authorization.py:22 
+INFO     [2025-03-01 23:04:25]: Making request to processor:
+{
+  "id": "auth_7413cd77-8be3-491b-83c1-76995d94ba23",
+  "amount": 20,
+  "currency": "usd",
+  "card": {
+    "id": "4111-1111-1111-1111",
+    "name": "ICT4310 Instructor",
+    "card_code": "123",
+    "exp_month": "06",
+    "exp_year": "2025",
+    "currency": "usd"
+  },
+  "merchant_data": {
+    "name": "Merchant",
+    "network_id": "merch_e3_ef_a6"
+  }
+} - request_authorization.py:14 
+INFO     [2025-03-01 23:04:25]: Processor response:
+{
+  "body": {
+    "amount": 20,
+    "approval_code": "appr_b3f91afb-9d47-4a74-88a5-afbcff5b6d17",
+    "approved": true,
+    "card": {
+      "card_code": "123",
+      "currency": "usd",
+      "exp_month": "06",
+      "exp_year": "2025",
+      "id": "4111-1111-1111-1111",
+      "name": "ICT4310 Instructor",
+      "type": "visa",
+      "valid": true
+    },
+    "currency": "usd",
+    "failure_code": "",
+    "failure_message": "",
+    "id": "auth_7413cd77-8be3-491b-83c1-76995d94ba23",
+    "merchant_data": {
+      "name": "Merchant",
+      "network_id": "merch_e3_ef_a6"
+    }
+  },
+  "statusCode": 200
+} - request_authorization.py:22 
+INFO     [2025-03-01 23:04:59]: Making request to processor:
+{
+  "id": "auth_460432bd-3fac-4e90-be1d-e1118f08eebe",
+  "amount": 20,
+  "currency": "usd",
+  "card": {
+    "id": "4111-1111-1111-1111",
+    "name": "ICT4310 Instructor",
+    "card_code": "123",
+    "exp_month": "06",
+    "exp_year": "2025",
+    "currency": "usd"
+  },
+  "merchant_data": {
+    "name": "Merchant",
+    "network_id": "merch_e3_ef_a6"
+  }
+} - request_authorization.py:14 
+INFO     [2025-03-01 23:04:59]: Processor response:
+{
+  "body": {
+    "amount": 20,
+    "approval_code": "appr_8af29a47-519f-4b2a-9b0a-611129e2d964",
+    "approved": true,
+    "card": {
+      "card_code": "123",
+      "currency": "usd",
+      "exp_month": "06",
+      "exp_year": "2025",
+      "id": "4111-1111-1111-1111",
+      "name": "ICT4310 Instructor",
+      "type": "visa",
+      "valid": true
+    },
+    "currency": "usd",
+    "failure_code": "",
+    "failure_message": "",
+    "id": "auth_460432bd-3fac-4e90-be1d-e1118f08eebe",
+    "merchant_data": {
+      "name": "Merchant",
+      "network_id": "merch_e3_ef_a6"
+    }
+  },
+  "statusCode": 200
+} - request_authorization.py:22 
+DEBUG    [2025-03-01 23:05:25]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 23:05:25]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 23:05:25]: FLASK_ENV: 'development' - __init__.py:43 
+INFO     [2025-03-01 23:05:25]: Making request to processor:
+{
+  "id": "auth_b766ed4a-e503-4d53-8cd4-b9981c3f5d9e",
+  "amount": 2000,
+  "currency": "usd",
+  "card": {
+    "id": "4111-1111-1111-1111",
+    "name": "ICT4310 Instructor",
+    "card_code": "123",
+    "exp_month": "06",
+    "exp_year": "2025",
+    "currency": "usd"
+  },
+  "merchant_data": {
+    "name": "Merchant",
+    "network_id": "merch_e3_ef_a6"
+  }
+} - request_authorization.py:14 
+INFO     [2025-03-01 23:05:25]: Processor response:
+{
+  "body": {
+    "amount": 2000,
+    "approval_code": "appr_e1bb9d47-aaac-43ef-97a6-ab94b391ad85",
+    "approved": true,
+    "card": {
+      "card_code": "123",
+      "currency": "usd",
+      "exp_month": "06",
+      "exp_year": "2025",
+      "id": "4111-1111-1111-1111",
+      "name": "ICT4310 Instructor",
+      "type": "visa",
+      "valid": true
+    },
+    "currency": "usd",
+    "failure_code": "",
+    "failure_message": "",
+    "id": "auth_b766ed4a-e503-4d53-8cd4-b9981c3f5d9e",
+    "merchant_data": {
+      "name": "Merchant",
+      "network_id": "merch_e3_ef_a6"
+    }
+  },
+  "statusCode": 200
+} - request_authorization.py:22 
+INFO     [2025-03-01 23:06:21]: Making request to processor:
+{
+  "id": "auth_32e81bdc-8692-4239-8781-89c8250c466e",
+  "amount": 2000,
+  "currency": "usd",
+  "card": {
+    "id": "4111-1111-1111-1111",
+    "name": "ICT4310 Instructor",
+    "card_code": "123",
+    "exp_month": "06",
+    "exp_year": "2025",
+    "currency": "usd"
+  },
+  "merchant_data": {
+    "name": "Merchant",
+    "network_id": "merch_e3_ef_a6"
+  }
+} - request_authorization.py:14 
+INFO     [2025-03-01 23:06:21]: Processor response:
+{
+  "body": {
+    "amount": 2000,
+    "approval_code": "appr_d88d59d8-d637-4cfe-bc51-5c1f603f12c7",
+    "approved": true,
+    "card": {
+      "card_code": "123",
+      "currency": "usd",
+      "exp_month": "06",
+      "exp_year": "2025",
+      "id": "4111-1111-1111-1111",
+      "name": "ICT4310 Instructor",
+      "type": "visa",
+      "valid": true
+    },
+    "currency": "usd",
+    "failure_code": "",
+    "failure_message": "",
+    "id": "auth_32e81bdc-8692-4239-8781-89c8250c466e",
+    "merchant_data": {
+      "name": "Merchant",
+      "network_id": "merch_e3_ef_a6"
+    }
+  },
+  "statusCode": 200
+} - request_authorization.py:22 
+DEBUG    [2025-03-01 23:06:41]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 23:06:41]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 23:06:41]: FLASK_ENV: 'development' - __init__.py:43 
+INFO     [2025-03-01 23:06:41]: Making request to processor:
+{
+  "id": "auth_f79ec03d-713f-4298-9229-d94e42323cb1",
+  "amount": 20,
+  "currency": "usd",
+  "card": {
+    "id": "4111-1111-1111-1111",
+    "name": "ICT4310 Instructor",
+    "card_code": "123",
+    "exp_month": "06",
+    "exp_year": "2025",
+    "currency": "usd"
+  },
+  "merchant_data": {
+    "name": "Merchant",
+    "network_id": "merch_e3_ef_a6"
+  }
+} - request_authorization.py:14 
+INFO     [2025-03-01 23:06:41]: Processor response:
+{
+  "body": {
+    "amount": 20,
+    "approval_code": "appr_554f310c-18a8-4b20-9d97-2a08ff952cda",
+    "approved": true,
+    "card": {
+      "card_code": "123",
+      "currency": "usd",
+      "exp_month": "06",
+      "exp_year": "2025",
+      "id": "4111-1111-1111-1111",
+      "name": "ICT4310 Instructor",
+      "type": "visa",
+      "valid": true
+    },
+    "currency": "usd",
+    "failure_code": "",
+    "failure_message": "",
+    "id": "auth_f79ec03d-713f-4298-9229-d94e42323cb1",
+    "merchant_data": {
+      "name": "Merchant",
+      "network_id": "merch_e3_ef_a6"
+    }
+  },
+  "statusCode": 200
+} - request_authorization.py:22 
+DEBUG    [2025-03-01 23:07:13]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 23:07:13]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 23:07:13]: FLASK_ENV: 'development' - __init__.py:43 
+INFO     [2025-03-01 23:07:31]: Making request to processor:
+{
+  "id": "auth_ca8d7d21-ddf1-4ae5-bcf1-122dbd9637fb",
+  "amount": 25000,
+  "currency": "usd",
+  "card": {
+    "id": "4111-1111-1111-1111",
+    "name": "ICT4310 Instructor",
+    "card_code": "123",
+    "exp_month": "06",
+    "exp_year": "2025",
+    "currency": "usd"
+  },
+  "merchant_data": {
+    "name": "Merchant",
+    "network_id": "merch_e3_ef_a6"
+  }
+} - request_authorization.py:14 
+INFO     [2025-03-01 23:07:31]: Processor response:
+{
+  "body": {
+    "amount": 25000,
+    "approval_code": "appr_77e77ab1-1e32-4472-8860-01be3b60d04f",
+    "approved": true,
+    "card": {
+      "card_code": "123",
+      "currency": "usd",
+      "exp_month": "06",
+      "exp_year": "2025",
+      "id": "4111-1111-1111-1111",
+      "name": "ICT4310 Instructor",
+      "type": "visa",
+      "valid": true
+    },
+    "currency": "usd",
+    "failure_code": "",
+    "failure_message": "",
+    "id": "auth_ca8d7d21-ddf1-4ae5-bcf1-122dbd9637fb",
+    "merchant_data": {
+      "name": "Merchant",
+      "network_id": "merch_e3_ef_a6"
+    }
+  },
+  "statusCode": 200
+} - request_authorization.py:22 
+INFO     [2025-03-01 23:08:27]: Making request to processor:
+{
+  "id": "auth_6e7c9a95-1a2a-464d-b874-c4ca372aca1f",
+  "amount": 25000,
+  "currency": "usd",
+  "card": {
+    "id": "4111-1111-1111-1111",
+    "name": "ICT4310 Instructor",
+    "card_code": "123",
+    "exp_month": "06",
+    "exp_year": "2025",
+    "currency": "usd"
+  },
+  "merchant_data": {
+    "name": "Merchant",
+    "network_id": "merch_e3_ef_a6"
+  }
+} - request_authorization.py:14 
+INFO     [2025-03-01 23:08:27]: Processor response:
+{
+  "body": {
+    "amount": 25000,
+    "approval_code": "appr_be6a1ffc-0615-46bc-970a-c200372db453",
+    "approved": true,
+    "card": {
+      "card_code": "123",
+      "currency": "usd",
+      "exp_month": "06",
+      "exp_year": "2025",
+      "id": "4111-1111-1111-1111",
+      "name": "ICT4310 Instructor",
+      "type": "visa",
+      "valid": true
+    },
+    "currency": "usd",
+    "failure_code": "",
+    "failure_message": "",
+    "id": "auth_6e7c9a95-1a2a-464d-b874-c4ca372aca1f",
+    "merchant_data": {
+      "name": "Merchant",
+      "network_id": "merch_e3_ef_a6"
+    }
+  },
+  "statusCode": 200
+} - request_authorization.py:22 
+INFO     [2025-03-01 23:08:29]: Making request to processor:
+{
+  "id": "auth_11bf5f57-bc0d-453c-94e5-c083c6ba70a0",
+  "amount": 25000,
+  "currency": "usd",
+  "card": {
+    "id": "4111-1111-1111-1111",
+    "name": "ICT4310 Instructor",
+    "card_code": "123",
+    "exp_month": "06",
+    "exp_year": "2025",
+    "currency": "usd"
+  },
+  "merchant_data": {
+    "name": "Merchant",
+    "network_id": "merch_e3_ef_a6"
+  }
+} - request_authorization.py:14 
+INFO     [2025-03-01 23:08:29]: Processor response:
+{
+  "body": {
+    "amount": 25000,
+    "approval_code": "appr_9a757aa9-7ecc-4fe6-b588-fdd89307d5f9",
+    "approved": true,
+    "card": {
+      "card_code": "123",
+      "currency": "usd",
+      "exp_month": "06",
+      "exp_year": "2025",
+      "id": "4111-1111-1111-1111",
+      "name": "ICT4310 Instructor",
+      "type": "visa",
+      "valid": true
+    },
+    "currency": "usd",
+    "failure_code": "",
+    "failure_message": "",
+    "id": "auth_11bf5f57-bc0d-453c-94e5-c083c6ba70a0",
+    "merchant_data": {
+      "name": "Merchant",
+      "network_id": "merch_e3_ef_a6"
+    }
+  },
+  "statusCode": 200
+} - request_authorization.py:22 
+INFO     [2025-03-01 23:09:26]: Making request to processor:
+{
+  "id": "auth_badd2a9c-7992-4a08-994e-8b85555323ee",
+  "amount": 25000,
+  "currency": "usd",
+  "card": {
+    "id": "4111-1111-1111-1111",
+    "name": "ICT4310 Instructor",
+    "card_code": "123",
+    "exp_month": "06",
+    "exp_year": "2025",
+    "currency": "usd"
+  },
+  "merchant_data": {
+    "name": "Merchant",
+    "network_id": "merch_e3_ef_a6"
+  }
+} - request_authorization.py:14 
+INFO     [2025-03-01 23:09:26]: Processor response:
+{
+  "body": {
+    "amount": 25000,
+    "approval_code": "appr_f7db2fe1-afac-43ad-9bb9-dbeb15682eb7",
+    "approved": true,
+    "card": {
+      "card_code": "123",
+      "currency": "usd",
+      "exp_month": "06",
+      "exp_year": "2025",
+      "id": "4111-1111-1111-1111",
+      "name": "ICT4310 Instructor",
+      "type": "visa",
+      "valid": true
+    },
+    "currency": "usd",
+    "failure_code": "",
+    "failure_message": "",
+    "id": "auth_badd2a9c-7992-4a08-994e-8b85555323ee",
+    "merchant_data": {
+      "name": "Merchant",
+      "network_id": "merch_e3_ef_a6"
+    }
+  },
+  "statusCode": 200
+} - request_authorization.py:22 
+INFO     [2025-03-01 23:09:33]: Making request to processor:
+{
+  "id": "auth_6b5b8e55-2713-4fc4-8acf-5adf3a9b8d4c",
+  "amount": 25000,
+  "currency": "usd",
+  "card": {
+    "id": "4111-1111-1111-1111",
+    "name": "ICT4310 Instructor",
+    "card_code": "123",
+    "exp_month": "06",
+    "exp_year": "2025",
+    "currency": "usd"
+  },
+  "merchant_data": {
+    "name": "Merchant",
+    "network_id": "merch_e3_ef_a6"
+  }
+} - request_authorization.py:14 
+INFO     [2025-03-01 23:09:34]: Processor response:
+{
+  "body": {
+    "amount": 25000,
+    "approval_code": "appr_0fb8a181-36c8-4eca-966e-b92bac8c915a",
+    "approved": true,
+    "card": {
+      "card_code": "123",
+      "currency": "usd",
+      "exp_month": "06",
+      "exp_year": "2025",
+      "id": "4111-1111-1111-1111",
+      "name": "ICT4310 Instructor",
+      "type": "visa",
+      "valid": true
+    },
+    "currency": "usd",
+    "failure_code": "",
+    "failure_message": "",
+    "id": "auth_6b5b8e55-2713-4fc4-8acf-5adf3a9b8d4c",
+    "merchant_data": {
+      "name": "Merchant",
+      "network_id": "merch_e3_ef_a6"
+    }
+  },
+  "statusCode": 200
+} - request_authorization.py:22 
+INFO     [2025-03-01 23:09:39]: Making request to processor:
+{
+  "id": "auth_dcd8eac1-cd50-4749-a13e-e77fd52f3f13",
+  "amount": 25000,
+  "currency": "usd",
+  "card": {
+    "id": "4111-1111-1111-1111",
+    "name": "ICT4310 Instructor",
+    "card_code": "123",
+    "exp_month": "06",
+    "exp_year": "2025",
+    "currency": "usd"
+  },
+  "merchant_data": {
+    "name": "Merchant",
+    "network_id": "merch_e3_ef_a6"
+  }
+} - request_authorization.py:14 
+INFO     [2025-03-01 23:09:39]: Processor response:
+{
+  "body": {
+    "amount": 25000,
+    "approval_code": "appr_afee29d9-6995-408e-b43a-b9623810f435",
+    "approved": true,
+    "card": {
+      "card_code": "123",
+      "currency": "usd",
+      "exp_month": "06",
+      "exp_year": "2025",
+      "id": "4111-1111-1111-1111",
+      "name": "ICT4310 Instructor",
+      "type": "visa",
+      "valid": true
+    },
+    "currency": "usd",
+    "failure_code": "",
+    "failure_message": "",
+    "id": "auth_dcd8eac1-cd50-4749-a13e-e77fd52f3f13",
+    "merchant_data": {
+      "name": "Merchant",
+      "network_id": "merch_e3_ef_a6"
+    }
+  },
+  "statusCode": 200
+} - request_authorization.py:22 
+INFO     [2025-03-01 23:10:11]: Making request to processor:
+{
+  "id": "auth_f383e23b-597c-4a66-a511-a02d726d077c",
+  "amount": 25000,
+  "currency": "usd",
+  "card": {
+    "id": "4111-1111-1111-1111",
+    "name": "ICT4310 Instructor",
+    "card_code": "123",
+    "exp_month": "06",
+    "exp_year": "2025",
+    "currency": "usd"
+  },
+  "merchant_data": {
+    "name": "Merchant",
+    "network_id": "merch_e3_ef_a6"
+  }
+} - request_authorization.py:14 
+INFO     [2025-03-01 23:10:11]: Processor response:
+{
+  "body": {
+    "amount": 25000,
+    "approval_code": "appr_69b9f310-8f6c-485c-8ceb-027ccc134b40",
+    "approved": true,
+    "card": {
+      "card_code": "123",
+      "currency": "usd",
+      "exp_month": "06",
+      "exp_year": "2025",
+      "id": "4111-1111-1111-1111",
+      "name": "ICT4310 Instructor",
+      "type": "visa",
+      "valid": true
+    },
+    "currency": "usd",
+    "failure_code": "",
+    "failure_message": "",
+    "id": "auth_f383e23b-597c-4a66-a511-a02d726d077c",
+    "merchant_data": {
+      "name": "Merchant",
+      "network_id": "merch_e3_ef_a6"
+    }
+  },
+  "statusCode": 200
+} - request_authorization.py:22 
+INFO     [2025-03-01 23:10:44]: Making request to processor:
+{
+  "id": "auth_1945555d-267e-4ce5-8471-36fd1aaa6b08",
+  "amount": 25000,
+  "currency": "usd",
+  "card": {
+    "id": "4453-4534-5345-3453",
+    "name": "ICT4310 Instructor",
+    "card_code": "123",
+    "exp_month": "06",
+    "exp_year": "2025",
+    "currency": "usd"
+  },
+  "merchant_data": {
+    "name": "Merchant",
+    "network_id": "merch_e3_ef_a6"
+  }
+} - request_authorization.py:14 
+INFO     [2025-03-01 23:10:45]: Processor response:
+{
+  "body": {
+    "amount": 25000,
+    "approval_code": "appr_460faab2-14a9-4c05-b6be-3b720f2668fe",
+    "approved": true,
+    "card": {
+      "card_code": "123",
+      "currency": "usd",
+      "exp_month": "06",
+      "exp_year": "2025",
+      "id": "4453-4534-5345-3453",
+      "name": "ICT4310 Instructor",
+      "type": "visa",
+      "valid": true
+    },
+    "currency": "usd",
+    "failure_code": "",
+    "failure_message": "",
+    "id": "auth_1945555d-267e-4ce5-8471-36fd1aaa6b08",
+    "merchant_data": {
+      "name": "Merchant",
+      "network_id": "merch_e3_ef_a6"
+    }
+  },
+  "statusCode": 200
+} - request_authorization.py:22 
+DEBUG    [2025-03-01 23:15:23]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 23:15:23]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 23:15:23]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 23:15:39]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 23:15:39]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 23:15:39]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 23:17:05]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 23:17:05]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 23:17:05]: FLASK_ENV: 'development' - __init__.py:43 
+INFO     [2025-03-01 23:17:59]: Making request to processor:
+{
+  "id": "auth_25116255-ca3e-459b-8c66-7f12a8760943",
+  "amount": 25000,
+  "currency": "usd",
+  "card": {
+    "id": "4111-1111-1111-1111",
+    "name": "ICT4310 Instructor",
+    "card_code": "411",
+    "exp_month": 4,
+    "exp_year": 2029,
+    "currency": "usd"
+  },
+  "merchant_data": {
+    "name": "Merchant",
+    "network_id": "merch_e3_ef_a6"
+  }
+} - request_authorization.py:14 
+INFO     [2025-03-01 23:18:00]: Processor response:
+{
+  "body": {
+    "amount": 25000,
+    "approval_code": "appr_e878bb60-5a06-4f16-8f0f-439ee9bef2c6",
+    "approved": true,
+    "card": {
+      "card_code": "411",
+      "currency": "usd",
+      "exp_month": 4,
+      "exp_year": 2029,
+      "id": "4111-1111-1111-1111",
+      "name": "ICT4310 Instructor",
+      "type": "visa",
+      "valid": true
+    },
+    "currency": "usd",
+    "failure_code": "",
+    "failure_message": "",
+    "id": "auth_25116255-ca3e-459b-8c66-7f12a8760943",
+    "merchant_data": {
+      "name": "Merchant",
+      "network_id": "merch_e3_ef_a6"
+    }
+  },
+  "statusCode": 200
+} - request_authorization.py:22 
+DEBUG    [2025-03-01 23:19:07]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 23:19:07]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 23:19:07]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 23:19:46]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 23:19:46]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 23:19:46]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 23:19:58]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 23:19:58]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 23:19:58]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 23:20:36]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 23:20:36]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 23:20:36]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 23:21:00]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 23:21:00]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 23:21:00]: FLASK_ENV: 'development' - __init__.py:43 
+DEBUG    [2025-03-01 23:21:06]: LOGGING IS RUNNING - __init__.py:41 
+INFO     [2025-03-01 23:21:06]: Running app in environment 'dev' - __init__.py:42 
+INFO     [2025-03-01 23:21:06]: FLASK_ENV: 'development' - __init__.py:43 
+INFO     [2025-03-01 23:21:36]: Making request to processor:
+{
+  "id": "auth_855f233d-1c2d-40f2-af1a-0888262fb22d",
+  "amount": 415,
+  "currency": "usd",
+  "card": {
+    "id": "4111-1111-1111-1111",
+    "name": "ICT4310 Instructor",
+    "card_code": "123",
+    "exp_month": 5,
+    "exp_year": 2025,
+    "currency": "usd"
+  },
+  "merchant_data": {
+    "name": "Merchant",
+    "network_id": "merch_e3_ef_a6"
+  }
+} - request_authorization.py:14 
+INFO     [2025-03-01 23:21:36]: Processor response:
+{
+  "body": {
+    "amount": 415,
+    "approval_code": "appr_4ed11dfb-c8fe-41f6-82ce-45f45b370a98",
+    "approved": true,
+    "card": {
+      "card_code": "123",
+      "currency": "usd",
+      "exp_month": 5,
+      "exp_year": 2025,
+      "id": "4111-1111-1111-1111",
+      "name": "ICT4310 Instructor",
+      "type": "visa",
+      "valid": true
+    },
+    "currency": "usd",
+    "failure_code": "",
+    "failure_message": "",
+    "id": "auth_855f233d-1c2d-40f2-af1a-0888262fb22d",
+    "merchant_data": {
+      "name": "Merchant",
+      "network_id": "merch_e3_ef_a6"
+    }
+  },
+  "statusCode": 200
+} - request_authorization.py:22 
+INFO     [2025-03-01 23:22:08]: Making request to processor:
+{
+  "id": "auth_84f80655-3e69-4de0-a140-cc61918b5473",
+  "amount": 415,
+  "currency": "usd",
+  "card": {
+    "id": "4111-1111-1111-1111",
+    "name": "ICT4310 Instructor",
+    "card_code": "123",
+    "exp_month": 5,
+    "exp_year": 2025,
+    "currency": "usd"
+  },
+  "merchant_data": {
+    "name": "Merchant",
+    "network_id": "merch_e3_ef_a6"
+  }
+} - request_authorization.py:14 
+INFO     [2025-03-01 23:22:08]: Processor response:
+{
+  "body": {
+    "amount": 415,
+    "approval_code": "appr_a7200a60-1814-4d8f-98f8-f99f63bb2f6b",
+    "approved": true,
+    "card": {
+      "card_code": "123",
+      "currency": "usd",
+      "exp_month": 5,
+      "exp_year": 2025,
+      "id": "4111-1111-1111-1111",
+      "name": "ICT4310 Instructor",
+      "type": "visa",
+      "valid": true
+    },
+    "currency": "usd",
+    "failure_code": "",
+    "failure_message": "",
+    "id": "auth_84f80655-3e69-4de0-a140-cc61918b5473",
+    "merchant_data": {
+      "name": "Merchant",
+      "network_id": "merch_e3_ef_a6"
+    }
+  },
+  "statusCode": 200
+} - request_authorization.py:22 

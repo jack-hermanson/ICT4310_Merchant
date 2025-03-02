@@ -33,6 +33,8 @@ cp .env.template.txt .env
 ```
 
 Generate a random hexadecimal number to use as a secret key.
+This is one way to do it, but if you google "generate secret key"
+online, there are other options.
 
 ```shell
 node -e "console.log(require('crypto').randomBytes(48).toString('hex'))"
@@ -50,13 +52,16 @@ SECRET_KEY=c1d137879ac5ba035d1495e85da0c914fe709868a94cb5aa2e657566acea08516c466
 PORT=5035
 ```
 
-Run database migrations.
-
+Run database initialization and migrations.
 ```shell
-# TODO: make sure this is correct
-flask db init
-flask db upgrade
+flask db init  # flask --app application db init
+flask db upgrade  # flask --app application db upgrade
 ```
+
+In the comments next to each command, I have a version 
+that explicitly specifies the Flask app; you shouldn't 
+need this if you properly activated the virtual environment
+and set up your `.env` correctly.
 
 Start the application.
 

@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+
+{% block body %}
+    <div class="row">
+        <div class="col">
+            <h2>Payment Confirmation</h2>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            {{ authorization }}
+        </div>
+    </div>
+    <div class="row mt-2">
+        <div class="col">
+            <dl>
+                <dt>Approved</dt>
+                <dd>{{ authorization.body.approved }}</dd>
+
+                <dt>Amount</dt>
+                <dd>${{'%0.2f' % (authorization.body.amount/100)|float}}</dd>
+
+                <dt>ID</dt>
+                <dd>{{ authorization.body.id }}</dd>
+
+                <dt>Card Type</dt>
+                <dd>{{ authorization.body.card.type|capitalize }}</dd>
+
+                <dt>Valid</dt>
+                <dd>{{ authorization.body.card.valid }}</dd>
+            </dl>
+        </div>
+    </div>
+    <div class="row mt-2">
+        <div class="col">
+            <a href="{{ url_for('main.make_payment') }}">Make another payment</a>
+        </div>
+    </div>
+{% endblock body %}

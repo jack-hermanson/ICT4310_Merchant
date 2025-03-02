@@ -1,6 +1,8 @@
+from datetime import datetime
+
 from flask_wtf import FlaskForm
-from wtforms.validators import DataRequired, Length, Regexp
-from wtforms import StringField, SubmitField
+from wtforms.validators import DataRequired, Length, Regexp, NumberRange
+from wtforms import StringField, SubmitField, IntegerField, DecimalField
 
 
 class CheckoutForm(FlaskForm):
@@ -8,13 +10,35 @@ class CheckoutForm(FlaskForm):
         "Credit Card Number",
         validators=[
             DataRequired(),
-            Length(min=16, max=16, message="Card number must be between 16 digits"),
-            Regexp(r"^\d+$", message="Card number must contain only digits"),
+            Length(min=19, max=19, message="Card number must be exactly 19 characters (including hyphens)"),
+            Regexp(r"^\d{4}-\d{4}-\d{4}-\d{4}$", message="Card number must be formatted as XXXX-XXXX-XXXX-XXXX"),
+        ],
+        render_kw={"oninput": "formatCardNumber(this)", "autofocus": True},
+    )
+    card_code = StringField(
+        "Card Code",
+        validators=[
+            DataRequired(),
+            Length(min=3, max=3, message="Card code is 3 characters"),
+            Regexp("^\d{3}$", message="Card code is a number"),
         ],
     )
-    submit = SubmitField("Submit")
+    exp_month = IntegerField(
+        "Exp Month",
+        validators=[DataRequired(), NumberRange(min=1, max=12, message="Exp month must be between 1 and 12")],
+    )
+    exp_year = IntegerField(
+        "Exp Year",
+        validators=[
+            DataRequired(),
+            NumberRange(min=datetime.today().year, message="Exp year must be between current year"),
+        ],
+    )
+    name = StringField("Name", validators=[DataRequired(), Length(max=25)])
+    amount = DecimalField(
+        "Amount",
+        validators=[DataRequired(), NumberRange(min=0, message="Amount must be positive")],
+        render_kw={"step": "0.01"},
+    )
 
-    @staticmethod
-    def validate_card_number(_, field):
-        # Remove hyphens before validation
-        field.data = field.data.replace("-", "")
+    submit = SubmitField("Submit")
