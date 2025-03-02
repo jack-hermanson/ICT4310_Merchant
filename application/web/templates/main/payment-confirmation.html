@@ -1,17 +1,12 @@
 {% extends "base.html" %}
 
 {% block body %}
-    <div class="row">
+    <div class="row mb-2">
         <div class="col">
             <h2>Payment Confirmation</h2>
         </div>
     </div>
     <div class="row">
-        <div class="col">
-            {{ authorization }}
-        </div>
-    </div>
-    <div class="row mt-2">
         <div class="col">
             <dl>
                 <dt>Approved</dt>
@@ -34,6 +29,15 @@
     <div class="row mt-2">
         <div class="col">
             <a href="{{ url_for('main.make_payment') }}">Make another payment</a>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <hr class="my-3">
+            <h5>Authorization JSON:</h5>
+            <pre>
+{{ authorization_json }}
+            </pre>
         </div>
     </div>
 {% endblock body %}

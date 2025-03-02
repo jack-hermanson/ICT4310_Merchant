@@ -1,9 +1,11 @@
+import json
 from dataclasses import asdict
 from json import JSONDecodeError
 from uuid import uuid4
 
 from flask import Blueprint, render_template, redirect, url_for, flash, jsonify
 
+from application import logger
 from application.constants import merchant_data
 from application.modules.main.forms import CheckoutForm
 from application.processor.ProcessorRequest import ProcessorRequest, RequestMerchantData, RequestCard
@@ -27,12 +29,21 @@ def make_payment():
                     card_code=form.card_code.data,
                     exp_year=form.exp_year.data,
                     exp_month=form.exp_month.data,
-                    name="ICT4310 Instructor",
+                    name=form.name.data,
                     currency="usd",
                 ),
             )
             authorization = request_authorization(processor_request)
-            return render_template("main/payment-confirmation.html", authorization=authorization)
+            if authorization.body.approved:
+                flash("Your transaction was approved!", "success")
+                return render_template(
+                    "main/payment-confirmation.html",
+                    authorization=authorization,
+                    authorization_json=json.dumps(asdict(authorization), indent=2),
+                )
+            else:
+                logger.warning(f"Authorization failed with failure code: {authorization.body.failure_code}")
+                flash(f"Authorization failed with message: {authorization.body.failure_message}", "danger")
         except Exception as e:
             flash(f"We couldn't process your request. {e.__str__()}.", category="danger")
 
