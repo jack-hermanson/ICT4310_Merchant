@@ -54,7 +54,6 @@ PORT=5035
 
 Run database initialization and migrations.
 ```shell
-flask db init  # flask --app application db init
 flask db upgrade  # flask --app application db upgrade
 ```
 
