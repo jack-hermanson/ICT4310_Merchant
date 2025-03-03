@@ -16,6 +16,7 @@ class ResponseBody:
     amount: int
     approved: bool
     failure_code: int | str
+    approval_code: str | None
     failure_message: str | str
     id: str
     card: ResponseBodyCard

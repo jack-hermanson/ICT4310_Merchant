@@ -14,14 +14,16 @@ class CheckoutForm(FlaskForm):
             Regexp(r"^\d{4}-\d{4}-\d{4}-\d{4}$", message="Card number must be formatted as XXXX-XXXX-XXXX-XXXX"),
         ],
         render_kw={"oninput": "formatCardNumber(this)", "autofocus": True},
+        description="16-digit number; we don't take American Express because their numbers are weird",
     )
     card_code = StringField(
         "Card Code",
         validators=[
             DataRequired(),
             Length(min=3, max=3, message="Card code is 3 characters"),
-            Regexp("^\d{3}$", message="Card code is a number"),
+            Regexp("^\d{3}$", message="Card code is a 3-digit number"),
         ],
+        description="",
     )
     exp_month = IntegerField(
         "Exp Month",

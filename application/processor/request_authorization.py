@@ -27,6 +27,7 @@ def request_authorization(processor_request: ProcessorRequest):
                 approved=response_json.get("body").get("approved"),
                 failure_code=response_json.get("body").get("failure_code"),
                 failure_message=response_json.get("body").get("failure_message"),
+                approval_code=response_json.get("body").get("approval_code"),
                 id=response_json.get("body").get("id"),
                 card=ResponseBodyCard(
                     id=response_json.get("body").get("card").get("id"),
