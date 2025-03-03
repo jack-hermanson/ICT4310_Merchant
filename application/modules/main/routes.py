@@ -22,9 +22,13 @@ def make_payment_html_redirect():
 
 @main.route("/make-payment", methods=["GET", "POST"])
 def make_payment():
+    # Set up the form.
     form = CheckoutForm()
+
+    # Check the inputs.
     if form.validate_on_submit():
         try:
+            # Generate a request to send to the credit card processor.
             processor_request = ProcessorRequest(
                 id=f"auth_{uuid4().__str__()}",
                 amount=int(form.amount.data * 100),
@@ -39,6 +43,7 @@ def make_payment():
                     currency="usd",
                 ),
             )
+            # Make the request to the authorization endpoint.
             authorization = request_authorization(processor_request)
             if authorization.body.approved:
                 flash("Your transaction was approved!", "success")
@@ -49,17 +54,22 @@ def make_payment():
                 purchase.approval_code = authorization.body.approval_code
                 db.session.add(purchase)
                 db.session.commit()
+
+                # Render out the payment confirmation screen.
                 return render_template(
                     "main/payment-confirmation.html",
                     authorization=authorization,
                     authorization_json=json.dumps(asdict(authorization), indent=2),
                 )
             else:
+                # Show an error message and allow the code to keep executing to render the template.
                 logger.warning(f"Authorization failed with failure code: {authorization.body.failure_code}")
                 flash(f"Authorization failed with message: {authorization.body.failure_message}", "danger")
         except Exception as e:
             flash(f"We couldn't process your request. {e.__str__()}.", category="danger")
 
+    # If we get to this point, either it's an invalid POST, so just show them the same form...
+    # OR, it's a GET, so just show a new form.
     return render_template("main/make-payment.html", form=form)
 
 
