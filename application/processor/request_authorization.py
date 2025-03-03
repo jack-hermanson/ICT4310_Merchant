@@ -1,3 +1,4 @@
+# Author: Jack Hermanson
 import json
 from requests import post
 from application import logger

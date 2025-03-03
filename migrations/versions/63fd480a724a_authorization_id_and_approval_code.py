@@ -1,3 +1,4 @@
+# Author: Jack Hermanson
 """authorization_id_and_approval_code
 
 Revision ID: 63fd480a724a

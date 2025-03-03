@@ -1,3 +1,4 @@
+# Author: Jack Hermanson
 import json
 from dataclasses import asdict
 from uuid import uuid4

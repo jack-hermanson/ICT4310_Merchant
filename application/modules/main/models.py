@@ -1,3 +1,4 @@
+# Author: Jack Hermanson
 from application import db
 
 

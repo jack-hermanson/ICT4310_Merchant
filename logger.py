@@ -1,3 +1,4 @@
+# Author: Jack Hermanson
 import logging
 
 

@@ -1,3 +1,4 @@
+# Author: Jack Hermanson
 import logging
 from logging.config import fileConfig
 
