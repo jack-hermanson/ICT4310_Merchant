@@ -54,7 +54,7 @@ PORT=5035
 
 Run database initialization and migrations.
 ```shell
-flask db upgrade  # flask --app application db upgrade
+python -m flask --app application db upgrade  
 ```
 
 In the comments next to each command, I have a version 
